@@ -1,7 +1,7 @@
 # Evaluación Final POO
 ## Integrantes:
-  - Fernando Javier Mena Carranza
-  - Emilio Alberto Santos Sibrián
+  - Fernando Javier Mena Carranza (20250091)
+  - Emilio Alberto Santos Sibrián (20220071)
 ## Asignaciones:
   - Fernando Mena: Creación de la estructura `LinkedList`, con sus métodos respectivos.
   - Emilio Santos: Creación del menú de opciones en la clase main y redacción de la justificación.
