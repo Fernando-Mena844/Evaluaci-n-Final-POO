@@ -15,8 +15,7 @@ public class Main {
             System.out.println("1) Agregar un cliente normal al final de la fila.");
             System.out.println("2) Agregar un cliente preferencial (embarazada/tercera edad) al principio de la fila.");
             System.out.println("3) Atender al siguiente cliente.");
-            System.out.println("4) Ver la lista de clientes");
-            System.out.println("5) Salir del sistema.");
+            System.out.println("4) Salir del sistema.");
             System.out.print("Escriba el número correspondiente a la acción a realizar: ");
             opcion=Integer.parseInt(sc.nextLine());
             switch (opcion) {
